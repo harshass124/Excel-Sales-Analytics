@@ -4,7 +4,7 @@
 This repository contains an in-depth analysis of sales performance using Excel and Power BI, focusing on customer performance, market trends, and sales targets, along with product-specific insights such as division reports and top-performing products.
 
 ## Project Objectives:
-1. Develop a [Customer Performance Analysis](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)
+1. Develop a [Customer Performance Analysis](https://github.com/harshass124/Excel-Sales-Analytics/blob/main/customer%20netsales%20performance.pdf)
 2. Perform a comparison between [Market Trends and Sales Objectives](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)
 3. Generate insights into division-specific performance
 4. Analyze new product introductions and their impact on sales
