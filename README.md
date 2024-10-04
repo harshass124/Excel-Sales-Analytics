@@ -5,7 +5,7 @@ This repository contains an in-depth analysis of sales performance using Excel a
 
 ## Project Objectives:
 1. Develop a [Customer Performance Analysis](https://github.com/harshass124/Excel-Sales-Analytics/blob/main/customer%20netsales%20performance.pdf)
-2. Perform a comparison between [Market Trends and Sales Objectives](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)
+2. Perform a comparison between [Market Trends and Sales Objectives](https://github.com/harshass124/Excel-Sales-Analytics/blob/main/market%20netsales%20performance.pdf)
 3. Generate insights into division-specific performance
 4. Analyze new product introductions and their impact on sales
 5. Identify the [Top 10 Products by Sales](#top-10-products-by-sales) and [Top and Bottom 5 Products by Quantity](#top-and-bottom-5-products-by-quantity)
