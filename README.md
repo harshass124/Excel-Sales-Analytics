@@ -8,7 +8,7 @@ This repository contains an in-depth analysis of sales performance using Excel a
 2. Perform a comparison between [Market Trends and Sales Objectives](https://github.com/harshass124/Excel-Sales-Analytics/blob/main/market%20netsales%20performance.pdf)
 3. Generate insights into division-specific performance.[Division Report](https://github.com/harshass124/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)
 4. Analyze new product introductions and their impact on sales.[New Product Analysis](https://github.com/harshass124/Excel-Sales-Analytics/blob/main/New%20Product.pdf)
-5. Identify the [Top 10 Products by Sales](#top-10-products-by-sales) and [Top and Bottom 5 Products by Quantity](#top-and-bottom-5-products-by-quantity)
+5. Identify the [Top 10 Products by Sales](https://github.com/harshass124/Excel-Sales-Analytics/blob/main/Top%2010%20Product.pdf) and [Top and Bottom 5 Products by Quantity](#top-and-bottom-5-products-by-quantity)
 
 ## Purpose of Sales Analytics:
 To help businesses monitor sales activities, evaluate performance across divisions and products, and optimize sales strategies.
